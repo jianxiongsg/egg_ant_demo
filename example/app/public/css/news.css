@@ -1,0 +1,11 @@
+body{
+    /* background-color: red; */
+}
+
+.news-view{
+    position: absolute;
+    top:0;
+    left:0;
+    width: 500rpx;
+    height: 1000rpx;
+}
